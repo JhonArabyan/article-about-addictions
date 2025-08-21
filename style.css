@@ -1,0 +1,31 @@
+body {
+    font-family: Inter; /* Семейство шрифтов */
+    font-size: 25px; /* Размер основного шрифта в <p></p>  */
+    text-align: center;
+    background-color: #FFFFFF; /* Цвет фона веб-страницы */
+    color: #000000; /* Цвет основного текста */ 
+}
+h2 {
+    text-decoration: underline;
+    text-decoration-color:rgb(255, 0, 0)  
+}
+ul {
+    text-align: justify;
+    padding: 20px 40px;
+    border-radius: 30px;
+    background-color: #5988FF;
+    color: #FFFFFF
+}
+h1 {
+    width:fit-content;
+    border-radius: 5px;
+    background-color: #FD98FB;
+    text-decoration: underline;
+    text-decoration-color:rgb(0, 0, 0);
+    color: rgb(0, 0, 0); /* Цвет заголовка */
+    font-size: 30px; /* Размер шрифта в пунктах */
+}
+img {
+    width: 50%;
+    border-radius: 50px;
+}
